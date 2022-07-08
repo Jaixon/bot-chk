@@ -1,1 +1,2 @@
-Worker: php bot.php
+
+Python-3.10.5
